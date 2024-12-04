@@ -283,3 +283,6 @@ public class main {
   - Untuk setiap barang, menampilkan deskripsi, jumlah, harga per unit, dan subtotal.
   - Menampilkan subtotal, pajak, total akhir, dan berat total barang.
 ```
+
+# • Output
+![gambar](Tugas-Pemrograman-Orientasi-Objek-Pert-11/ss2.png)
