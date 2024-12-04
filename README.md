@@ -266,7 +266,7 @@ public class main {
 
 ```
 
-### Penjelasanya
+### Penjelasan
 ```
 - Membuat Objek Barang (Item):
   - item1 adalah Laptop dengan berat 2.5 lbs, harga 200,000, dan pajak 5%.
