@@ -266,7 +266,7 @@ public class main {
 
 ```
 
-### Penjelasan
+### Penjelasanya
 ```
 - Membuat Objek Barang (Item):
   - item1 adalah Laptop dengan berat 2.5 lbs, harga 200,000, dan pajak 5%.
@@ -283,14 +283,3 @@ public class main {
   - Untuk setiap barang, menampilkan deskripsi, jumlah, harga per unit, dan subtotal.
   - Menampilkan subtotal, pajak, total akhir, dan berat total barang.
 ```
-
-
-
-
-
-
-
-
-
-
-
